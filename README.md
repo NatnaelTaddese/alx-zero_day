@@ -1,2 +1,2 @@
 My first readme
-i love shitting myself
+Second readme
